@@ -1,3 +1,11 @@
+/*COLOR PALETTE*/
+:root {
+  --darkblue: #083b4c;
+  --lightblue: #1389b2;
+  --green: #0bd6a1;
+  --yellow: #ffd166;
+  --red: #f0466f;
+}
 body {
-  background-color: darkblue;
+  background-color: var(--darkblue);
 }
